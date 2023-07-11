@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(237, 239, 240);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Cambria' , 'Cochin', 'arial', 'Verdana', 'sans-serif','Arial Narrow Bold', sans-serif;
+}
+ 
+ #mainid{
+    padding: 5px;
+    width: 40%;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 1px;
+
+ }
+
